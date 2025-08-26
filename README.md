@@ -1,8 +1,6 @@
 ### Hi there 👋, Yousef Aboelnaga
 #### I am Front-end Developer
-![I am Front-end Developer](https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+![I am Front-end Developer]
 
 Skills: JS / HTML / CSS / Bootstrap
 
