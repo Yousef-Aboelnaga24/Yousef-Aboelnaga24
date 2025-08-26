@@ -1,11 +1,10 @@
 ### Hi there 👋, Yousef Aboelnaga
 #### I am Front-end Developer
-![I am Front-end Developer]
 
-Skills: JS / HTML / CSS / Bootstrap
+Skills: HTML5 / CSS3 / Bootstrap / JS / Python / MySQL
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React, MySQL 
+- 🌱 I’m currently learning React
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yousef-Aboelnaga24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousef-aboelnaga-59929b337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/share/1E4XuCrd8y/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yousef.aboelnaga_24/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aboelnaga_24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yousef-aboelnaga24.github.io/Portfolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](http://t.me/YousefAboelnaga24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](http://tiktok.com/@yousef.aboelnaga_24)  
