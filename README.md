@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Youssef  
 
-🎨 Front-End Developer(react.js) from Egypt | Passionate about building interactive and user-friendly web experiences.
+🎨 Front-End Developer <code>(React.js)</code> from Egypt | Passionate about building interactive and user-friendly web experiences.
 ---
 
 ## 📊 GitHub Stats  
